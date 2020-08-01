@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+}
+
+span{
+    background-color:aqua;
+    padding: 10px;
+    border-radius: 25%;
+}
+
+img{
+    height: 310px;
+    width: 400px;
+}
+
+.left{
+    display: block;
+    margin-left: 10%;
+}
+
+.lefttxt{
+    margin-left: 10%;
+}
+
+/* div{
+    background: rgba(100, 224, 76, 0.247);
+} */
+
+.card{
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+    height: 350px;
+    width: 1000px;
+    
+}
+ .image-section{
+    margin-top: 20px;
+    margin-right: 200px;
+    height: 310px;
+    width: 400px;
+    
+}
+
+
+.txt-section{
+    background-color:gainsboro;
+    margin-top: 25px;
+    margin-right: 40px;
+    height: 300px;
+    width: 400px;
+    
+
+}
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+
+}
